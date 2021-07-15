@@ -7,9 +7,6 @@ import { GetCursos, getCursos } from './components/crud';
 
 function App() {
 
-
-
-
   return (
       <>
       <h1>Academia</h1>
